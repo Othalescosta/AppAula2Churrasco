@@ -1,10 +1,10 @@
 # AppAula2Churrasco
 
-Aula1Calculadora
-Sobre o projeto
+
+Sobre o projeto:
+
 Aplicativo para Rachar o Churrasco.
 
-Layout mobile:
 
 
 
